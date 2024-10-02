@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+    color: black;
+    padding: 0;
+    margin: 0;
+    background-position: center;
+    max-width: 2000px;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    background-color: white;
+    color: white;
+    padding: 20px;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    text-align: center;
+    padding: 10px
+}
+
+h1 {
+    text-align: center;
+    color: plum;
+    font-size: 48px;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    font-size: 32px;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    font-size: 16px;
+}
+
+h4 {
+    text-align: center;
+    color: plum;
+    font-size: 32px;
+    border-style: solid;
+    border-color: plum;
+}
+
+img {
+    align-items: center;
+}
